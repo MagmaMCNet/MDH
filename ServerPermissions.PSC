@@ -1,10 +1,10 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 26/5/24 5:55 AM - V1.2.0
+//VRCWMT - UTC 26/5/24 7:14 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
->> BANNED2 > _G+Higher+Admin+Staff+VIP
+>> BANNED2 > _G+PERMBANNED+Higher+Admin+Staff
 n̶u̷l̵l̵
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 53_Axis
