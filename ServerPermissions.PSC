@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 26/5/24 3:54 PM - V1.2.0
+//VRCWMT - UTC 26/5/24 9:06 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -133,7 +133,4 @@ DarkDeerAlastor
 
 >> VIP > VIP
 IElizabeth
-rookieforcookie
-StoneHatchet
 Fantastic Lunar
-LocalSS
