@@ -1,18 +1,15 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/5/24 4:48 AM - V1.2.0
+//VRCWMT - UTC 27/5/24 5:17 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP
-Hywel Playz
-Puffer__Fish
-CorruptedID8765
-X StarDust X
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 
 >> MODERATORS > Staff+VIP
+MagmaMCVR
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
