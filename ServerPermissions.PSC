@@ -1,15 +1,18 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/5/24 5:17 AM - V1.2.0
+//VRCWMT - UTC 27/5/24 7:53 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP
+MagmaMCVR
 
 >> ADMINISTRATORS > Admin+Staff+VIP
+Splice_Anomaly
+rookieforcookie
+StoneHatchet
 
 >> MODERATORS > Staff+VIP
-MagmaMCVR
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
@@ -21,7 +24,6 @@ Roman․Gamer․2022 dd54
 godoftntvr․2023 41c4
 
 >> WATCHLIST > WatchList
-Kingdier108 634e
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -105,7 +107,6 @@ JulysVeryOwn0718 b5e7
 Roleplayer2020
 luckybendy 67c9
 DarkDeerAlastor
-StoneHatchet
 n̶u̷l̵l̵
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 31NE
