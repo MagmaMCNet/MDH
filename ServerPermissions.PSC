@@ -12,31 +12,12 @@ CorruptedID8765
 X StarDust X
 
 >> ADMINISTRATORS > Admin+Staff+VIP
-FlintEXP
-brod13579
-AaronFoxy10ǃ
-RussianKratos
-Kipo Thomas
-LicoriceLLoise
-Starke․
-JasonPlayz_HTF
-Splice_Anomaly
+
 
 >> MODERATORS > Staff+VIP
-psychoyuri
-VortigauntDoc
-ZacharySFM
-fuzzytaco-
-Toxic Coco
+
 
 >> TEMPBANNEDPLAYERS > TempBanned
-xanderioso
-katie11․2023 67e6
-rengoku․191008 6b6d
-GoodwinGaming 4fbe
-NOAH_2FAST df17
-Roman․Gamer․2022 dd54
-godoftntvr․2023 41c4
 
 >> WATCHLIST > WatchList
 Kingdier108 634e
