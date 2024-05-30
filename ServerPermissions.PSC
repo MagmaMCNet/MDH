@@ -1,11 +1,12 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 30/5/24 11:50 AM - V1.2.0
+//VRCWMT - UTC 30/5/24 11:58 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP
 MagmaMCVR
+Billybob6
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
