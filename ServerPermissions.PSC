@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/5/24 2:55 AM - V1.2.0
+//VRCWMT - UTC 31/5/24 3:13 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -118,7 +118,6 @@ DarkDeerAlastor
 n̶u̷l̵l̵
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 31NE
-v̶̋̀o̷͒i̵̇̕d̵̃̈
 53_Axis
 YurYur568 6e21
 cafebus1234
