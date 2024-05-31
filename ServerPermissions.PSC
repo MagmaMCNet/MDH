@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/5/24 8:01 PM - V1.2.0
+//VRCWMT - UTC 31/5/24 8:14 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -19,6 +19,8 @@ Billybob6
 
 >> MODERATORS > Staff+VIP
 31NE
+IElizabeth
+OneWhoTickles
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
