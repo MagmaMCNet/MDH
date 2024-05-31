@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/5/24 2:52 AM - V1.2.0
+//VRCWMT - UTC 31/5/24 2:55 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -31,6 +31,7 @@ godoftntvr․2023 41c4
 CorruptedID8765
 KukuPickles
 Puffer__Fish
+yotsua
 
 >> WATCHLIST > WatchList
 
