@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/5/24 10:57 PM - V1.2.0
+//VRCWMT - UTC 31/5/24 11:05 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -32,6 +32,8 @@ Roman․Gamer․2022 dd54
 godoftntvr․2023 41c4
 Lukeswinney2011 f7b2
 Declan Mac
+BILLBLAST267
+Rain_is_better 887e
 
 >> BITCHES > Bitches
 CorruptedID8765
