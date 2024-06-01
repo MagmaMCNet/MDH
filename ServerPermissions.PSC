@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/6/24 6:31 PM - V1.2.0
+//VRCWMT - UTC 1/6/24 7:24 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -16,6 +16,7 @@ LocalSS
 Fantastic Lunar
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 Billybob6
+乍丹卞丹し_ヨ尺尺回尺
 
 >> MODERATORS > Staff+VIP
 31NE
