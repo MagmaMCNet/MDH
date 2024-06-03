@@ -7,6 +7,7 @@
 >> OWNERS > Higher+Admin+Staff+VIP
 MagmaMCVR
 Magma VR
+vrch̴at
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
