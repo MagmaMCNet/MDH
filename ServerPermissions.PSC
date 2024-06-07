@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 3/6/24 1:45 AM - V1.2.0
+//VRCWMT - UTC 7/6/24 2:04 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -7,7 +7,6 @@
 >> OWNERS > Higher+Admin+Staff+VIP
 MagmaMCVR
 Magma VR
-vrch̴at
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -18,6 +17,7 @@ Fantastic Lunar
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 Billybob6
 乍丹卞丹し_ヨ尺尺回尺
+Starke․
 
 >> MODERATORS > Staff+VIP
 31NE
@@ -36,15 +36,15 @@ Lukeswinney2011 f7b2
 Declan Mac
 BILLBLAST267
 Rain_is_better 887e
-DkRamos2015 c110
+DkRamos2004 c110
+
+>> WATCHLIST > WatchList
 
 >> BITCHES > Bitches
 CorruptedID8765
 KukuPickles
 Puffer__Fish
 yotsua
-
->> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
