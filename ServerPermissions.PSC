@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/6/24 7:27 AM - V1.2.0
+//VRCWMT - UTC 9/6/24 7:32 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -131,6 +131,8 @@ Oragami_king268 c594
 RustySalamander
 The Primid
 yotsua
+_toy
+DemonCalico
 
 >> VIP > VIP
 DarkNVM1201
