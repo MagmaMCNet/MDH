@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/6/24 7:32 AM - V1.2.0
+//VRCWMT - UTC 9/6/24 7:36 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -133,6 +133,10 @@ The Primid
 yotsua
 _toy
 DemonCalico
+OakleyAkiyama
+rush2354
+Darkknight32472
+Nikolai ordo
 
 >> VIP > VIP
 DarkNVM1201
