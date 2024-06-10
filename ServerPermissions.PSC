@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/6/24 3:55 AM - V1.2.0
+//VRCWMT - UTC 10/6/24 8:16 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -7,6 +7,7 @@
 >> OWNERS > Higher+Admin+Staff+VIP
 MagmaMCVR
 Magma VR
+vrch̴at
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -39,12 +40,12 @@ BILLBLAST267
 Rain_is_better 887e
 DkRamos2004 c110
 
->> WATCHLIST > WatchList
-
 >> BITCHES > Bitches
 CorruptedID8765
 KukuPickles
 Puffer__Fish
+
+>> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -87,7 +88,7 @@ crys․21388 68b9
 FRIGHT THE SCARY BUNNY 6528
 Mardok efb6
 wideopen911 81c3
-BUTT LICKER 79
+0hlqAtC0aRNq
 PP TOUCHER
 MONKEY MAN 86
 dylan2013e
@@ -131,7 +132,7 @@ Ethan72412 b868
 Oragami_king268 c594
 RustySalamander
 The Primid
-yotsua
+〫〫〫〫〫〫〫〫〫〫〫
 _toy
 DemonCalico
 OakleyAkiyama
