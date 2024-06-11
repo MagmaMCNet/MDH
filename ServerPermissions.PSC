@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/6/24 8:16 PM - V1.2.0
+//VRCWMT - UTC 11/6/24 10:52 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -139,6 +139,7 @@ OakleyAkiyama
 rush2354
 Darkknight32472
 Nikolai ordo
+M̷a̷g̷n̷u̷s̷
 
 >> VIP > VIP
 DarkNVM1201
