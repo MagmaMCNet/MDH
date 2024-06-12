@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/6/24 1:06 AM - V1.2.0
+//VRCWMT - UTC 12/6/24 1:09 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -40,14 +40,14 @@ BILLBLAST267
 Rain_is_better 887e
 DkRamos2004 c110
 Floofer_XD
-Chumbabo
+Billy willy
+
+>> WATCHLIST > WatchList
 
 >> BITCHES > Bitches
 CorruptedID8765
-KukuPickles
+CrayonDrizzle
 Puffer__Fish
-
->> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -134,7 +134,7 @@ Ethan72412 b868
 Oragami_king268 c594
 RustySalamander
 The Primid
-〫〫〫〫〫〫〫〫〫〫〫
+yotsua
 _toy
 DemonCalico
 OakleyAkiyama
@@ -145,7 +145,7 @@ M̷a̷g̷n̷u̷s̷
 ～沼地～
 π-Chumbabõ-π
 slim2000
-Chumbabo
+Billy willy
 wisho walo
 
 >> VIP > VIP
