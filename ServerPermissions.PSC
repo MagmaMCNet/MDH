@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/6/24 12:22 AM - V1.2.0
+//VRCWMT - UTC 12/6/24 12:26 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -143,6 +143,7 @@ M̷a̷g̷n̷u̷s̷
 ～沼地～
 π-Chumbabõ-π
 slim2000
+Chumbabo
 
 >> VIP > VIP
 DarkNVM1201
