@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/6/24 12:59 AM - V1.2.0
+//VRCWMT - UTC 12/6/24 1:06 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -39,7 +39,6 @@ Declan Mac
 BILLBLAST267
 Rain_is_better 887e
 DkRamos2004 c110
-ILikePizza950
 Floofer_XD
 Chumbabo
 
