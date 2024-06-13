@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/6/24 11:24 PM - V1.2.0
+//VRCWMT - UTC 13/6/24 2:07 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -147,6 +147,7 @@ M̷a̷g̷n̷u̷s̷
 slim2000
 Billy willy
 wisho walo
+MOLKYSLUSHY
 
 >> VIP > VIP
 DarkNVM1201
