@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/6/24 12:17 AM - V1.2.0
+//VRCWMT - UTC 14/6/24 6:23 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -45,7 +45,6 @@ Billy willy
 Migue2758486 db38
 Kris2023 1228
 Djdakid23 832f
-Necrocinth02
 
 >> WATCHLIST > WatchList
 
