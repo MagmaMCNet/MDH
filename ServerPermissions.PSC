@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/6/24 11:30 AM - V1.2.0
+//VRCWMT - UTC 15/6/24 5:56 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -154,6 +154,7 @@ MOLKYSLUSHY
 rip․commander․2024 4497
 ToastStuff
 rundownjordan
+N․214132 e311
 
 >> VIP > VIP
 DarkNVM1201
