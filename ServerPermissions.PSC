@@ -54,6 +54,7 @@ wrrnacitkhemn17 35f0
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
+CYNs Solver
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
