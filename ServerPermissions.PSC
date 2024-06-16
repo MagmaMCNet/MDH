@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/6/24 10:10 PM - V1.2.0
+//VRCWMT - UTC 16/6/24 10:45 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -20,6 +20,7 @@ v̶̋̀o̷͒i̵̇̕d̵̃̈
 Billybob6
 乍丹卞丹し_ヨ尺尺回尺
 Starke․
+Toxic Coco
 
 >> MODERATORS > Staff+VIP
 31NE
