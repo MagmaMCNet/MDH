@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/6/24 6:57 PM - V1.2.0
+//VRCWMT - UTC 16/6/24 7:57 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -54,7 +54,6 @@ wrrnacitkhemn17 35f0
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
-CYNs Solver
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -156,7 +155,6 @@ N․214132 e311
 ∗＋［MXZZY］＋∗ ce08
 EddieTX123
 Dandogg2011 7c16
-CYNs Solver
 
 >> VIP > VIP
 DarkNVM1201
