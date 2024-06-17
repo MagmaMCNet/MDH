@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/6/24 10:45 PM - V1.2.0
+//VRCWMT - UTC 17/6/24 7:28 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -49,12 +49,12 @@ damianroche
 rundownjordan
 wrrnacitkhemn17 35f0
 
->> WATCHLIST > WatchList
-
 >> BITCHES > Bitches
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
+
+>> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -158,6 +158,7 @@ EddieTX123
 Dandogg2011 7c16
 meta_stemp 133f
 AshSlays 87ae
+m․146777 2c47
 
 >> VIP > VIP
 DarkNVM1201
