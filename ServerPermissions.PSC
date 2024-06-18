@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 17/6/24 7:28 PM - V1.2.0
+//VRCWMT - UTC 18/6/24 4:15 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -159,6 +159,7 @@ Dandogg2011 7c16
 meta_stemp 133f
 AshSlays 87ae
 m․146777 2c47
+༒Gerardred༒
 
 >> VIP > VIP
 DarkNVM1201
