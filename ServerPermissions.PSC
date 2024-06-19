@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/6/24 12:38 PM - V1.2.0
+//VRCWMT - UTC 19/6/24 10:16 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -49,6 +49,8 @@ damianroche
 rundownjordan
 wrrnacitkhemn17 35f0
 Imaginary_Thing
+montae8 2f85
+Willcayl 5f16
 
 >> WATCHLIST > WatchList
 
