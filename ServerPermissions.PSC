@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 19/6/24 12:37 PM - V1.2.0
+//VRCWMT - UTC 19/6/24 12:38 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -162,6 +162,7 @@ AshSlays 87ae
 m․146777 2c47
 ༒Gerardred༒
 kobe2016
+Smaz_DK 13e9
 
 >> VIP > VIP
 DarkNVM1201
