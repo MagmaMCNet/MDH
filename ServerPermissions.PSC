@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 22/6/24 3:39 PM - V1.2.0
+//VRCWMT - UTC 22/6/24 10:07 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -28,6 +28,7 @@ skibidi3
 IElizabeth
 OneWhoTickles
 Ghost Trooper
+psychoyuri
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
@@ -170,6 +171,7 @@ james․208709 94b1
 ~enzor~
 xGqD13 13ba
 baymax679 e818
+COIL47
 
 >> VIP > VIP
 DarkNVM1201
