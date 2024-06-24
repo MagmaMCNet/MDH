@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 23/6/24 6:02 AM - V1.2.0
+//VRCWMT - UTC 24/6/24 3:41 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -22,9 +22,9 @@ Billybob6
 Starke․
 Toxic Coco
 skibidi3
+31NE
 
 >> MODERATORS > Staff+VIP
-31NE
 IElizabeth
 OneWhoTickles
 Ghost Trooper
@@ -55,12 +55,12 @@ montae8 2f85
 Willcayl 5f16
 Youngskillz2916 271d
 
+>> WATCHLIST > WatchList
+
 >> BITCHES > Bitches
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
-
->> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
