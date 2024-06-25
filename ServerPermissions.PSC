@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 25/6/24 3:19 PM - V1.2.0
+//VRCWMT - UTC 25/6/24 3:28 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -58,6 +58,7 @@ Willcayl 5f16
 Youngskillz2916 271d
 Designation․N․n eb0b
 kinitoPET cf50
+MurderdroneN724 ac04
 
 >> BITCHES > Bitches
 CorruptedID8765
@@ -182,6 +183,8 @@ totalgavin12
 NN808 063f
 willow1234star 0b42
 Deltale
+Chatito7 abdb
+CaesarY
 
 >> VIP > VIP
 DarkNVM1201
