@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 26/6/24 3:07 PM - V1.2.0
+//VRCWMT - UTC 26/6/24 6:19 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -186,6 +186,7 @@ Chatito7 abdb
 CaesarY
 _toy
 A․Jgoingham 5ba9
+TheOracle1971 2e2f
 
 >> VIP > VIP
 DarkNVM1201
