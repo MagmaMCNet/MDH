@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 29/6/24 1:00 AM - V1.2.0
+//VRCWMT - UTC 29/6/24 1:06 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -43,7 +43,6 @@ Declan Mac
 BILLBLAST267
 DkRamos2004 c110
 Billy willy
-Migue2758486 db38
 Djdakid23 832f
 EvilPancakeYT
 wrrnacitkhemn17 35f0
@@ -51,7 +50,6 @@ montae8 2f85
 Willcayl 5f16
 Youngskillz2916 271d
 Designation․N․n eb0b
-kinitoPET cf50
 MurderdroneN724 ac04
 
 >> BITCHES > Bitches
