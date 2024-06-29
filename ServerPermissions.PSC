@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 28/6/24 11:09 PM - V1.2.0
+//VRCWMT - UTC 29/6/24 12:57 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -35,7 +35,6 @@ ZanderMan17
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
-katie11․2023 67e6
 rengoku․191008 6b6d
 GoodwinGaming 4fbe
 NOAH_2FAST df17
