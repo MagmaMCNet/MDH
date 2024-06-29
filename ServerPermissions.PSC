@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 29/6/24 12:57 AM - V1.2.0
+//VRCWMT - UTC 29/6/24 1:00 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -37,22 +37,16 @@ ZanderMan17
 xanderioso
 rengoku․191008 6b6d
 GoodwinGaming 4fbe
-NOAH_2FAST df17
 godoftntvr․2023 41c4
 Lukeswinney2011 f7b2
 Declan Mac
 BILLBLAST267
-Rain_is_better 887e
 DkRamos2004 c110
 Billy willy
 Migue2758486 db38
 Djdakid23 832f
 EvilPancakeYT
-cloudstrife5049
-damianroche
-rundownjordan
 wrrnacitkhemn17 35f0
-Imaginary_Thing
 montae8 2f85
 Willcayl 5f16
 Youngskillz2916 271d
