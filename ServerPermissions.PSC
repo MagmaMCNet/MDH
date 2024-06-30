@@ -22,7 +22,6 @@ LocalSS
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 Billybob6
 乍丹卞丹し_ヨ尺尺回尺
-Starke․
 Toxic Coco
 skibidi3
 31NE
