@@ -1,17 +1,14 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 30/6/24 7:50 PM - V1.2.0
+//VRCWMT - UTC 30/6/24 8:48 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP
-MagmaMCVR
 Magma VR
 vrch̴at
 Fantastic Lunar
 VRCWMT
--Glamtime-Bonz-
-༒ E N Z O ༒
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -25,6 +22,7 @@ Toxic Coco
 skibidi3
 31NE
 Starke․
+-Glamtime-Bonz-
 
 >> MODERATORS > Staff+VIP
 IElizabeth
