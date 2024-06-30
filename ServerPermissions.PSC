@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 29/6/24 8:29 PM - V1.2.0
+//VRCWMT - UTC 30/6/24 7:16 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -158,7 +158,6 @@ Billy willy
 wisho walo
 rip․commander․2024 4497
 ToastStuff
-rundownjordan
 N․214132 e311
 ∗＋［MXZZY］＋∗ ce08
 EddieTX123
