@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 30/6/24 10:51 PM - V1.2.0
+//VRCWMT - UTC 1/7/24 4:21 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -55,13 +55,14 @@ MacNCheez55 d68d
 Gameday․9 4391
 Anotidaishe2 9efb
 Pinkmaster5000 1fa1
+Alastor_radio17
+
+>> WATCHLIST > WatchList
 
 >> BITCHES > Bitches
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
-
->> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
