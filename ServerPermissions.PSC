@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/7/24 8:38 PM - V1.2.0
+//VRCWMT - UTC 1/7/24 8:55 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -31,6 +31,7 @@ Ghost Trooper
 psychoyuri
 ILikePizza950
 ZanderMan17
+Lυɳαƈყ
 
 >> TEMPBANNEDPLAYERS > TempBanned
 xanderioso
