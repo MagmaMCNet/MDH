@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/7/24 4:21 PM - V1.2.0
+//VRCWMT - UTC 1/7/24 7:21 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -56,6 +56,7 @@ Gameday․9 4391
 Anotidaishe2 9efb
 Pinkmaster5000 1fa1
 Alastor_radio17
+usn128 7b06
 
 >> WATCHLIST > WatchList
 
