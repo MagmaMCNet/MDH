@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/7/24 7:21 PM - V1.2.0
+//VRCWMT - UTC 1/7/24 7:47 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -59,6 +59,7 @@ Alastor_radio17
 usn128 7b06
 
 >> WATCHLIST > WatchList
+edwink2․2023 aad8
 
 >> BITCHES > Bitches
 CorruptedID8765
