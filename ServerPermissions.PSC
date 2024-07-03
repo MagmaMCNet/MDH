@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 3/7/24 3:23 PM - V1.2.0
+//VRCWMT - UTC 3/7/24 9:57 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -22,6 +22,7 @@ Toxic Coco
 skibidi3
 31NE
 -Glamtime-Bonz-
+53_Axis
 
 >> MODERATORS > Staff+VIP
 IElizabeth
