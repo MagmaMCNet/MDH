@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 4/7/24 6:57 AM - V1.2.0
+//VRCWMT - UTC 4/7/24 7:42 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -64,7 +64,6 @@ breakfastburrito․2023 9d5e
 
 >> BITCHES > Bitches
 CorruptedID8765
-CrayonDrizzle
 Puffer__Fish
 
 >> WATCHLIST > WatchList
