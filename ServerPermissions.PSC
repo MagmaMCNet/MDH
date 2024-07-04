@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 4/7/24 3:06 AM - V1.2.0
+//VRCWMT - UTC 4/7/24 5:05 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -62,13 +62,13 @@ Elias1345 3da9
 -pr-packer-LINO
 breakfastburrito․2023 9d5e
 
->> WATCHLIST > WatchList
-edwink2․2023 aad8
-
 >> BITCHES > Bitches
 CorruptedID8765
 CrayonDrizzle
 Puffer__Fish
+
+>> WATCHLIST > WatchList
+edwink2․2023 aad8
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
@@ -109,7 +109,7 @@ crys․21388 68b9
 FRIGHT THE SCARY BUNNY 6528
 Mardok efb6
 wideopen911 81c3
-0hlqAtC0aRNq
+BUTT LICKER 79
 PP TOUCHER
 MONKEY MAN 86
 dylan2013e
@@ -177,7 +177,7 @@ james․208709 94b1
 ~enzor~
 xGqD13 13ba
 baymax679 e818
-COIL47
+Nathan Mercer
 Xavier529 20af
 totalgavin12
 NN808 063f
@@ -205,6 +205,7 @@ Tfm․cow․2․1 240b
 nerd c45e
 carnes․2023cddccc 57b6
 StormChaser916 e00c
+la_morra_the_star536 3dfa
 
 >> VIP > VIP
 DarkNVM1201
