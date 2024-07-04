@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 4/7/24 8:00 AM - V1.2.0
+//VRCWMT - UTC 4/7/24 8:09 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -208,6 +208,7 @@ la_morra_the_star536 3dfa
 name․10755 7526
 CrayonDrizzle
 oliver122024 b61a
+Avur
 
 >> VIP > VIP
 DarkNVM1201
