@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 5/7/24 6:15 PM - V1.2.0
+//VRCWMT - UTC 5/7/24 7:37 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -66,6 +66,7 @@ Jake201409 3ef1
 xdemon․2024 ff45
 wednesda 5ba7
 정원 92d6
+THE ANTI-VIRUS
 
 >> WATCHLIST > WatchList
 edwink2․2023 aad8
