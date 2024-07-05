@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 4/7/24 7:42 PM - V1.2.0
+//VRCWMT - UTC 5/7/24 6:15 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -9,6 +9,7 @@ Magma VR
 vrch̴at
 Fantastic Lunar
 VRCWMT
+-LARP-
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -66,12 +67,12 @@ xdemon․2024 ff45
 wednesda 5ba7
 정원 92d6
 
+>> WATCHLIST > WatchList
+edwink2․2023 aad8
+
 >> BITCHES > Bitches
 CorruptedID8765
 Puffer__Fish
-
->> WATCHLIST > WatchList
-edwink2․2023 aad8
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
