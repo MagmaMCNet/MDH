@@ -2,5 +2,3 @@
 VRCWMT
 -LARP-
 vrch̴at
-Mr Paradox
-༒N̷o̷D̷e̷a̷th̷༒
