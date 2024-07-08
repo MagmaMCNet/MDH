@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 6/7/24 2:32 AM - V1.2.0
+//VRCWMT - UTC 8/7/24 5:46 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -10,6 +10,7 @@ vrch̴at
 Fantastic Lunar
 VRCWMT
 -LARP-
+Starke․
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
