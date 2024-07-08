@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 8/7/24 5:59 PM - V1.2.0
+//VRCWMT - UTC 8/7/24 6:05 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -71,6 +71,7 @@ wednesda 5ba7
 THE ANTI-VIRUS
 prince․the․grate․23 dc77
 Ajmanson3
+Lapeyrouse95 318b
 
 >> WATCHLIST > WatchList
 edwink2․2023 aad8
@@ -226,6 +227,7 @@ angelostephenson 1a0b
 j_ray11 8079
 Migue2758486 db38
 MrDino412 3357
+R̷o̸s̸a̶l̷y̶n̸
 
 >> VIP > VIP
 DarkNVM1201
