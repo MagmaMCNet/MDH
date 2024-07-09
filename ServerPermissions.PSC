@@ -9,7 +9,6 @@ Magma VR
 vrch̴at
 VRCWMT
 -LARP-
-Starke․
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -27,6 +26,7 @@ skibidi3
 Lυɳαƈყ
 fuzzytaco-
 Fantastic Lunar
+Starke․
 
 >> MODERATORS > Staff+VIP
 IElizabeth
