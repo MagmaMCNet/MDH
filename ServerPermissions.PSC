@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/7/24 10:14 PM - V1.2.0
+//VRCWMT - UTC 9/7/24 10:18 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -230,6 +230,7 @@ R̷o̸s̸a̶l̷y̶n̸
 9Blade eee6
 regg235625
 1_Cora_1
+Gouda-Cheese
 
 >> VIP > VIP
 DarkNVM1201
