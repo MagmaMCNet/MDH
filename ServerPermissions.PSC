@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/7/24 10:10 PM - V1.2.0
+//VRCWMT - UTC 9/7/24 10:11 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -77,8 +77,6 @@ Lapeyrouse95 318b
 edwink2․2023 aad8
 
 >> BITCHES > Bitches
-CorruptedID8765
-Puffer__Fish
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
