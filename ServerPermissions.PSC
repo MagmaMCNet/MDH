@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/7/24 10:11 PM - V1.2.0
+//VRCWMT - UTC 9/7/24 10:12 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -26,6 +26,7 @@ skibidi3
 53_Axis
 Lυɳαƈყ
 fuzzytaco-
+Fantastic Lunar
 
 >> MODERATORS > Staff+VIP
 IElizabeth
