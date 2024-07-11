@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/7/24 12:16 AM - V1.2.0
+//VRCWMT - UTC 11/7/24 12:18 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -77,6 +77,8 @@ kitty_bunny2000 b831
 CrackedGarfeild
 Sniperx76 4b01
 Cayden0108 f628
+ashfire12 4449
+giggle2019
 
 >> WATCHLIST > WatchList
 edwink2․2023 aad8
