@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/7/24 2:49 AM - V1.2.0
+//VRCWMT - UTC 14/7/24 3:09 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -10,6 +10,8 @@ VRCWMT
 -LARP-
 Magma-VR
 Starke․
+DarkDeerAlastor
+Lυɳαƈყ
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Splice_Anomaly
@@ -24,7 +26,6 @@ skibidi3
 31NE
 -Glamtime-Bonz-
 53_Axis
-Lυɳαƈყ
 fuzzytaco-
 Fantastic Lunar
 
@@ -36,7 +37,6 @@ psychoyuri
 ILikePizza950
 ZanderMan17
 VortigauntDoc
-DarkDeerAlastor
 SD-F
 
 >> TEMPBANNEDPLAYERS > TempBanned
