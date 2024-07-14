@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 13/7/24 6:04 PM - V1.2.0
+//VRCWMT - UTC 14/7/24 2:49 AM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -256,6 +256,7 @@ Jzboy121
 DaisyMcfly
 poo head and pe
 Nevertheless232
+~Martinez~
 
 >> VIP > VIP
 DarkNVM1201
