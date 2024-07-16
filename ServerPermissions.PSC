@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 14/7/24 3:09 AM - V1.2.0
+//VRCWMT - UTC 16/7/24 10:17 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -34,7 +34,7 @@ IElizabeth
 OneWhoTickles
 Ghost Trooper
 psychoyuri
-ILikePizza950
+ILikеPizzа
 ZanderMan17
 VortigauntDoc
 SD-F
@@ -54,7 +54,7 @@ EvilPancakeYT
 wrrnacitkhemn17 35f0
 montae8 2f85
 Willcayl 5f16
-Youngskillz2916 271d
+Matthew_onRR1 271d
 Designation․N․n eb0b
 MurderdroneN724 ac04
 Jerothiago 87c8
@@ -210,7 +210,7 @@ _toy
 A․Jgoingham 5ba9
 TheOracle1971 2e2f
 Younglion9 8882
-James132010 2231
+deadman205 2231
 lopes1151 2ce5
 N-SᴀɴɪᴛʏUᴢɪɪ
 Starcatcher_
@@ -225,7 +225,6 @@ livelaughpomni c807
 Tfm․cow․2․1 240b
 nerd c45e
 carnes․2023cddccc 57b6
-StormChaser916 e00c
 la_morra_the_star536 3dfa
 name․10755 7526
 CrayonDrizzle
@@ -234,7 +233,7 @@ Avur
 SmolDummy 8993
 Dinosaur․boy475 5ee2
 Ethan72412 b868
-angelostephenson 1a0b
+40past11 1a0b
 j_ray11 8079
 Migue2758486 db38
 MrDino412 3357
