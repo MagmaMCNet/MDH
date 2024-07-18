@@ -7,4 +7,4 @@ B4CK
 vrch̴at
 VRCΒOT
 Magma-VR
-Z̵͒̔E̶̠̊Ŕ̸̗̭0
+Z̵͒̔E̶̠̊Ŕ̸̗0
