@@ -11,22 +11,19 @@ VRCWMT
 Magma-VR
 
 >> ADMINISTRATORS > Admin+Staff+VIP
+DarkDeerAlastor
+Lυɳαƈყ
 Starke․
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 
-
 >> MODERATORS > Staff+VIP
-DarkDeerAlastor
-Lυɳαƈყ
 Splice_Anomaly
 rookieforcookie
 StoneHatchet
 LocalSS
 Toxic Coco
-31NE
 -Glamtime-Bonz-
 OneWhoTickles
-Ghost Trooper
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
