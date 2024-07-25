@@ -4,7 +4,7 @@
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
->> OWNERS > Higher+Admin+Staff+VIP
+>> OWNERS > _G+Higher+Admin+Staff+VIP
 vrch̴at
 VRCWMT
 -LARP-
