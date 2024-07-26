@@ -5,25 +5,20 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
-vrch̴at
-VRCWMT
--LARP-
-Magma-VR
-uihgefbiywevi
+Magma - VR
+M022
+HDZero
 
->> ADMINISTRATORS > Admin+Staff+VIP
+>> ADMINISTRATORS > Higher+Admin+Staff+VIP
 DarkDeerAlastor
 Lυɳαƈყ
-Starke․
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 
 >> MODERATORS > Staff+VIP
 Splice_Anomaly
 rookieforcookie
 StoneHatchet
-LocalSS
--Glamtime-Bonz-
-OneWhoTickles
+Starke․
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
