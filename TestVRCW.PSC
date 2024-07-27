@@ -8,4 +8,3 @@ N001
 
 >> WorldBlacklist > Blacklist
 Lucifer_12am
-ᴰᵉᵃᵈᵈ
