@@ -7,4 +7,4 @@ N001
 >> UIBlacklist > UIBlacklist
 
 >> WorldBlacklist > Blacklist
-
+Lucifer_12am
