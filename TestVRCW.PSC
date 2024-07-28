@@ -8,3 +8,4 @@ N001
 
 >> WorldBlacklist > Blacklist
 Lucifer_12am
+Glock17s
