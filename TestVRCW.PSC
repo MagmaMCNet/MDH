@@ -10,3 +10,4 @@ I cant hear you
 >> WorldBlacklist > Blacklist
 Lucifer_12am
 Glock17s
+octoware
