@@ -11,4 +11,3 @@ I cant hear you
 Lucifer_12am
 Glock17s
 octoware
-?༒soul༒¿
