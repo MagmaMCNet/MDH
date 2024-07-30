@@ -4,6 +4,7 @@ HDZero
 M023
 N006
 Doxable Demon
+BoldxOnxSuicide
 
 >> UIBlacklist > UIBlacklist
 
