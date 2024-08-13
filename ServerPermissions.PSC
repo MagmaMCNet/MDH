@@ -6,26 +6,25 @@
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
 Magma - VR
-M022
+MawJob
+MawJob?
 HDZero
 
 >> ADMINISTRATORS > Higher+Admin+Staff+VIP
+v̶̋̀o̷͒i̵̇̕d̵̃̈
 DarkDeerAlastor
 Lυɳαƈყ
-v̶̋̀o̷͒i̵̇̕d̵̃̈
+PawJob?
 
 >> MODERATORS > Staff+VIP
 Splice_Anomaly
-rookieforcookie
 StoneHatchet
-Starke․
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
 >> BITCHES > Bitches
 
 >> WATCHLIST > WatchList
-edwink2․2023 aad8
 
 >> BANNEDPLAYERS > Banned
 lean․hashira 0442
