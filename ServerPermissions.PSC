@@ -9,6 +9,7 @@ Magma - VR
 MawJob
 MawJob?
 HDZero
+Undoxable Demon
 
 >> ADMINISTRATORS > Higher+Admin+Staff+VIP
 v̶̋̀o̷͒i̵̇̕d̵̃̈
@@ -19,7 +20,6 @@ PawJob?
 >> MODERATORS > Staff+VIP
 Splice_Anomaly
 StoneHatchet
-
 >> TEMPBANNEDPLAYERS > TempBanned
 
 >> BITCHES > Bitches
