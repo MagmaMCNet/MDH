@@ -6,12 +6,12 @@
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
 Magma - VR
+HDZero
 MawJob
 MawJob?
-Undoxable Demon
 
 >> ADMINISTRATORS > Higher+Admin+Staff+VIP
-HDZero
+Undoxable Demon
 v̶̋̀o̷͒i̵̇̕d̵̃̈
 DarkDeerAlastor
 Lυɳαƈყ
