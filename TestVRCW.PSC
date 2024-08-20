@@ -8,6 +8,5 @@ joeisdad_567
 >> WorldBlacklist > Blacklist
 Lucifer_12am
 Glock17s
-octoware
 2Satisfied_Jáÿ
 ᴋᴜᴍα ®
