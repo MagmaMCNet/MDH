@@ -7,18 +7,16 @@
 >> OWNERS > _G+Higher+Admin+Staff+VIP
 Magma - VR
 HDZero
-MawJob
 MawJob?
+
 Benevolent
+
 >> ADMINISTRATORS > Higher+Admin+Staff+VIP
-Undoxable Demon
-v̶̋̀o̷͒i̵̇̕d̵̃̈
 DarkDeerAlastor
 Lυɳαƈყ
-PawJob?
-
 
 >> MODERATORS > Staff+VIP
+Undoxable Demon
 Splice_Anomaly
 StoneHatchet
 
