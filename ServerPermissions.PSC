@@ -28,7 +28,7 @@ StoneHatchet
 >> WATCHLIST > WatchList
 
 >> BANNEDPLAYERS > Banned
-// first ban first ban wipe - reason: crashing players 8/28/24
+// first ban of the ban wipe - reason: crashing players 8/28/24
 jackbailey2012 a2b7
 
 >> VIP > VIP
