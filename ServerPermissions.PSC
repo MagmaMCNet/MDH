@@ -23,10 +23,6 @@ StoneHatchet
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
->> BITCHES > Bitches
-
->> WATCHLIST > WatchList
-
 >> BANNEDPLAYERS > Banned
 // 8/28/24
 // first ban of the ban wipe - reason: crashing players
