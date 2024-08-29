@@ -22,6 +22,10 @@ Splice_Anomaly
 StoneHatchet
 
 >> TEMPBANNEDPLAYERS > TempBanned
+// 8/29/24
+// Reason: Sending porn emojis targetted towards kids
+×~S0ᵾł~×
+Tubbyz
 
 >> BANNEDPLAYERS > Banned
 // 8/28/24
