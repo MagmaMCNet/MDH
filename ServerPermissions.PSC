@@ -20,6 +20,8 @@ AxonAndroidCM
 Undoxable Demon
 Splice_Anomaly
 StoneHatchet
+Elevator cat
+Minto08
 
 >> TEMPBANNEDPLAYERS > TempBanned
 // 8/29/24
