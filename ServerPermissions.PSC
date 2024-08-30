@@ -1,4 +1,4 @@
-//AUTO GENERATED DO NOT EDIT!
+//AUTO GENERATED DO NOT EDIT! -- yea i wish i killed my vrcwmt account /:
 //VRCWMT - UTC 16/7/24 10:27 PM - V1.2.0
 //WorldName: Murder Drones Hub
 //WorldDescription: Unoffical Murder Drones Hub
@@ -20,11 +20,13 @@ AxonAndroidCM
 Undoxable Demon
 Splice_Anomaly
 StoneHatchet
+
 Elevator cat
 Minto08
 S3ri0uslyund34d
+
 >> TEMPBANNEDPLAYERS > TempBanned
-// 8/29/24
+// 8/29/24 - 9/5/24
 // Reason: Sending porn emojis targetted towards kids
 ×~S0ᵾł~×
 Tubbyz
@@ -33,7 +35,6 @@ Tubbyz
 // 8/28/24
 // first ban of the ban wipe - reason: crashing players
 jackbailey2012 a2b7
-//
+
 
 >> VIP > VIP
-
