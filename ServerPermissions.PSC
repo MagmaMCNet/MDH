@@ -38,6 +38,15 @@ jackbailey2012 a2b7
 // 8/31/24
 // 11 years old, wearing skibidi toilet avatars and refusing to talk.
 Pulsating d44f
+// 8/31/24
+// Underage, admitting to being 12 and harrassing.
+Spider_vr2012
+// 8/31/24
+// Harrassment and sexual towards members.
+slawsonkp1
+// 8/31/24
+// Sexual harrassment and touching people.
+raidenchu
 
 
 >> VIP > VIP
