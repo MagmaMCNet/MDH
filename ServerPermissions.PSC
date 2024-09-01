@@ -35,6 +35,9 @@ Tubbyz
 // 8/28/24
 // first ban of the ban wipe - reason: crashing players
 jackbailey2012 a2b7
+// 8/31/24
+// 11 years old, wearing skibidi toilet avatars and refusing to talk.
+Pulsating d44f
 
 
 >> VIP > VIP
