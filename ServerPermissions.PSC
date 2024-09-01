@@ -36,17 +36,20 @@ Tubbyz
 // first ban of the ban wipe - reason: crashing players
 jackbailey2012 a2b7
 // 8/31/24
-// 11 years old, wearing skibidi toilet avatars and refusing to talk.
+// Reason: 11 years old, wearing skibidi toilet avatars and refusing to talk.
 Pulsating d44f
 // 8/31/24
-// Underage, admitting to being 12 and harrassing.
+// Reason: Underage, admitting to being 12 and harrassing.
 Spider_vr2012
 // 8/31/24
-// Harrassment and sexual towards members.
+// Reason: Harrassment and sexual towards members.
 slawsonkp1
 // 8/31/24
-// Sexual harrassment and touching people.
+// Reason: Sexual harrassment and touching people.
 raidenchu
+// 8/31/24
+// Reason: 5 Years old. Wtf.
+Firfam 465a
 
 
 >> VIP > VIP
