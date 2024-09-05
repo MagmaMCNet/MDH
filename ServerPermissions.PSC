@@ -50,6 +50,8 @@ raidenchu
 // 8/31/24
 // Reason: 5 Years old. Wtf.
 Firfam 465a
-
+// 9/4/24
+// Reason: harrasing members and staff members constantly with multiple warns and using the N word.
+Goat․8844 c871
 
 >> VIP > VIP
