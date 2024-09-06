@@ -16,13 +16,13 @@ DarkDeerAlastor
 Lυɳαƈყ
 AxonAndroidCM
 Elevator cat
-Minto08
 S3ri0uslyund34d
 
 >> MODERATORS > Staff+VIP
 Undoxable Demon
 Splice_Anomaly
 StoneHatchet
+Minto08
 
 >> TEMPBANNEDPLAYERS > TempBanned
 // 8/29/24 - 9/5/24
@@ -37,9 +37,6 @@ jackbailey2012 a2b7
 // 8/31/24
 // Reason: 11 years old, wearing skibidi toilet avatars and refusing to talk.
 Pulsating d44f
-// 8/31/24
-// Reason: Underage, admitting to being 12 and harrassing.
-Spider_vr2012
 // 8/31/24
 // Reason: Harrassment and sexual towards members.
 slawsonkp1
