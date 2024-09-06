@@ -15,15 +15,14 @@ Benevolent
 DarkDeerAlastor
 Lυɳαƈყ
 AxonAndroidCM
+Elevator cat
+Minto08
+S3ri0uslyund34d
 
 >> MODERATORS > Staff+VIP
 Undoxable Demon
 Splice_Anomaly
 StoneHatchet
-
-Elevator cat
-Minto08
-S3ri0uslyund34d
 
 >> TEMPBANNEDPLAYERS > TempBanned
 // 8/29/24 - 9/5/24
