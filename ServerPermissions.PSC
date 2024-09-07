@@ -5,9 +5,11 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
-Magma - VR
-HDZero
-MawJob?
+MaɡmaMC
+MaɡmaVR
+ZER0 EXE
+ZER0CLIENT
+Mawjob?
 
 Benevolent
 
