@@ -7,8 +7,6 @@
 >> OWNERS > _G+Higher+Admin+Staff+VIP
 MaɡmaMC
 MaɡmaVR
-ZER0 EXE
-ZER0CLIENT
 Mawjob?
 
 Benevolent
