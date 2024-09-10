@@ -5,6 +5,7 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
+ZER0 EXE
 MaɡmaMC
 MaɡmaVR
 Mawjob?
