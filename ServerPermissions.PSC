@@ -26,10 +26,6 @@ Splice_Anomaly
 Minto08
 
 >> TEMPBANNEDPLAYERS > TempBanned
-// 8/29/24 - 9/5/24
-// Reason: Sending porn emojis targetted towards kids
-×~S0ᵾł~×
-Tubbyz
 
 >> BANNEDPLAYERS > Banned
 // 8/28/24
