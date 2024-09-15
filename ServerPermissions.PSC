@@ -56,5 +56,9 @@ efrenar d2fe
 // 9/15/24
 // Reason: playing porn on the video player multiple times
 leeharveyosald.2023 d78e
+// 9/15/24
+// Reason: Saying n word and being just completely racist
+Designation-N
+8bit-Pixel
 
 >> VIP > VIP
