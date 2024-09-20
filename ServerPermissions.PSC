@@ -33,34 +33,48 @@ StoneHatchet
 // 8/28/24
 // first ban of the ban wipe - reason: crashing players
 jackbailey2012 a2b7
+
 // 8/31/24
 // Reason: 11 years old, wearing skibidi toilet avatars and refusing to talk.
 Pulsating d44f
+
 // 8/31/24
 // Reason: Harrassment and sexual towards members.
 slawsonkp1
+
 // 8/31/24
 // Reason: Sexual harrassment and touching people.
 raidenchu
+
 // 8/31/24
 // Reason: 5 Years old. Wtf.
 Firfam 465a
+
 // 9/4/24
 // Reason: harrasing members and staff members constantly with multiple warns and using the N word.
 Goat․8844 c871
+
 //9/7/24
 // Reason: Client User
 -DRYWINTER--
+
 // 9/15/24
 // Reason: N word abuse
 HORROR32444GOD 5a41
 efrenar d2fe
+
 // 9/15/24
 // Reason: playing porn on the video player multiple times
 leeharveyoswald.2023 d78e
+
 // 9/15/24
 // Reason: Saying n word and being just completely racist
 Designation-N
 8bit-Pixel
+
+// 9/20/24
+// Reason: if asked say "i cant check the github rn"
+Glitched_killer
+RabbitMeat
 
 >> VIP > VIP
