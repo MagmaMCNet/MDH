@@ -81,4 +81,8 @@ RabbitMeat
 // Reason: Underage around 10yrs of age
 b3ar.pug2ly 98c1
 
+// 9/21/24
+// Reason: beening a middle man for a former dev in helping to attempt to take down the world and calling me as a minor a pedo
+JasonPlayz_HTF
+
 >> VIP > VIP
