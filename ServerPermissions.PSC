@@ -9,11 +9,11 @@ Zer0 EXE
 MaɡmaMC
 MaɡmaVR
 Mawjob?
-FemboyCockLover
 
+>> COOWNER > Higher+Admin+Staff+VIP
 Benevolent
 
->> ADMINISTRATORS > Higher+Admin+Staff+VIP
+>> ADMINISTRATORS > Admin+Staff+VIP
 DarkDeerAlastor
 Lυɳαƈყ
 AxonAndroidCM
