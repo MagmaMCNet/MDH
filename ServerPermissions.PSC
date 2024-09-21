@@ -20,10 +20,10 @@ AxonAndroidCM
 Elevator cat
 S3ri0uslyund34d
 Minto08
+Splice_Anomaly
 
 >> MODERATORS > Staff+VIP
 Undoxable Demon
-Splice_Anomaly
 StoneHatchet
 ~Dollomania~
 
