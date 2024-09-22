@@ -85,4 +85,8 @@ b3ar.pug2ly 98c1
 // Reason: beening a middle man for a former dev in helping to attempt to take down the world and calling me as a minor a pedo
 JasonPlayz_HTF
 
+// 9/21/24
+// Reason: E-Boy avatar that can take its clothes off, also very weird for him being 18 to go around near minors and touch them.
+blaze blaz
+
 >> VIP > VIP
