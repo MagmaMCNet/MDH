@@ -10,8 +10,9 @@ MaɡmaMC
 MaɡmaVR
 Mawjob?
 
->> COOWNER > Higher+Admin+Staff+VIP
+>> Senior > Higher+Admin+Staff+VIP
 Benevolent
+Splice_Anomaly
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 DarkDeerAlastor
@@ -20,7 +21,6 @@ AxonAndroidCM
 Elevator cat
 S3ri0uslyund34d
 Minto08
-Splice_Anomaly
 0Dahila0
 
 >> MODERATORS > Staff+VIP
