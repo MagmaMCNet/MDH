@@ -16,7 +16,6 @@ Splice_Anomaly
 ˏ 21 ˎ
 
 >> ADMINISTRATORS > Admin+Staff+VIP
-DarkDeerAlastor
 AxonAndroidCM
 Elevator cat
 S3ri0uslyund34d
