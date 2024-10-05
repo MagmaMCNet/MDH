@@ -93,11 +93,4 @@ Sonicb0iy e282
 // Reason: Porn on Videoplayer
 Lowenickel20077 2206
 
-// 10/05/24
-// Reason: Doxxing people
-GUITAR_HERØ
-
-// 10/05/24
-// Reason: Shit talking All of staff team
-Luna Alcyon
 >> VIP > VIP
