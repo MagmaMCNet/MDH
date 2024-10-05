@@ -21,7 +21,6 @@ AxonAndroidCM
 Elevator cat
 S3ri0uslyund34d
 Minto08
-0Dahlia0
 『 NoxxyLav 』
 
 >> MODERATORS > Staff+VIP
@@ -89,5 +88,9 @@ blaze blaz
 // 9/28/24
 // Reason: Around the age of 7-10
 Sonicb0iy e282
+
+// 10/05/24
+// Reason: Porn on Videoplayer
+Lowenickel20077 2206
 
 >> VIP > VIP
