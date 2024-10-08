@@ -27,6 +27,7 @@ Splice_Anomaly
 Undoxable Demon
 StoneHatchet
 ~Dollomania~
+SourpatchVT
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
