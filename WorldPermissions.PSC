@@ -95,4 +95,8 @@ Sonicb0iy e282
 // Reason: Porn on Videoplayer
 Lowenickel20077 2206
 
+// 10/28/24
+// Reason: playing gore and porn on media player and saying the N word; bio literally says "i date 11 year olds"
+NotThatRacist
+
 >> VIP > VIP
