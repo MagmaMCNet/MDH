@@ -5,15 +5,11 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP
-Zer0 EXE
-MaɡmaMC
-MaɡmaVR
-Mawjob?
-Spoofed Aссount
+Maɡmа
 Benevolent
 
 >> Senior > Higher+Admin+Staff+VIP
-Epsilon Zero
+DarkDeerAlastor
 
 >> ADMINISTRATORS > Admin+Staff+VIP
 Elevator cat
