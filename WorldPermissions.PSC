@@ -18,13 +18,13 @@ Minto08
 『 NoxxyLav 』
 Splice_Anomaly
 ˏ 21 ˎ
+SourpatchVT
 
 
 >> MODERATORS > Staff+VIP
 Undoxable Demon
 StoneHatchet
 ~Dollomania~
-SourpatchVT
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
