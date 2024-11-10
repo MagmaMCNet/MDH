@@ -7,15 +7,15 @@
 >> ShittyInternal > _G+Higher+Admin+Staff+VIP
 Maɡmа
 
->> MaxPerms > Higher+Admin+Staff+VIP
+>> MaxPerms > Higher+Admin+Staff+VIP+TAG_OWNER
 Benevolent
 
->> ADMINISTRATORS > Admin+Staff+VIP
+>> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 DarkDeerAlastor
 Elevator cat
 AxonCM
 
->> MODERATORS > Staff+VIP
+>> MODERATORS > Staff+VIP+TAG_MOD
 Minto08
 StoneHatchet
 RabbitMeat
