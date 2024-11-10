@@ -21,6 +21,9 @@ Kikuσ
 Minto08
 StoneHatchet
 RabbitMeat
+FangedFinn
+Cord-IE
+MOLKYSLUSHY
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
