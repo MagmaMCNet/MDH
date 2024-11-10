@@ -15,6 +15,7 @@ Benevolent
 DarkDeerAlastor
 Elevator cat
 Epsilon Zero
+Kikuσ
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 Minto08
