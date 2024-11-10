@@ -6,6 +6,7 @@
 
 >> ShittyInternal > _G+Higher+Admin+Staff+VIP
 Maɡmа
+nnn_0x
 
 >> MaxPerms > Higher+Admin+Staff+VIP+TAG_OWNER
 Benevolent
