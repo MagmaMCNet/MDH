@@ -4,27 +4,21 @@
 //WorldDescription: Unoffical Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
->> OWNERS > _G+Higher+Admin+Staff+VIP
+>> ShittyInternal > _G+Higher+Admin+Staff+VIP
 Maɡmа
+
+>> MaxPerms > Higher+Admin+Staff+VIP
 Benevolent
 
->> Senior > Higher+Admin+Staff+VIP
-DarkDeerAlastor
-
 >> ADMINISTRATORS > Admin+Staff+VIP
+DarkDeerAlastor
 Elevator cat
-S3ri0uslyund34d
-Minto08
-『 NoxxyLav 』
-Splice_Anomaly
-ˏ 21 ˎ
-SourpatchVT
-
+AxonCM
 
 >> MODERATORS > Staff+VIP
-Undoxable Demon
+Minto08
 StoneHatchet
-~Dollomania~
+RabbitMeat
 
 >> TEMPBANNEDPLAYERS > TempBanned
 
@@ -94,5 +88,13 @@ Lowenickel20077 2206
 // 10/28/24
 // Reason: playing gore and porn on media player and saying the N word; bio literally says "i date 11 year olds"
 NotThatRacist
+
+/// 11/10/24
+// Reason: pedophiles including alt accounts
+ĐÄŖĶĐËËŖĊŸŅ
+Official Lizzy
+SD-A
+BloodEv0lve
+CrazyRedneck
 
 >> VIP > VIP
