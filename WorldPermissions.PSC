@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/11/24 3:36 AM - V1.3.0
+//VRCWMT - UTC 12/11/24 10:42 PM - V1.3.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -54,3 +54,6 @@ follow_cdudevr 8650
 DefinitelynotAbelTorres 6adb
 mattymario27 3682
 Jmdaen2529 2b0a
+DREADEDTACOCAT c571
+dman14․2024 9ecf
+death․is․here c325
