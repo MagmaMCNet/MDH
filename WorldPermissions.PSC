@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/11/24 2:25 AM - V1.3.0
+//VRCWMT - UTC 12/11/24 2:40 AM - V1.3.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -24,6 +24,9 @@ FangedFinn
 Cord-IE
 MOLKYSLUSHY
 
+>> KOS > KOS+Banned
+AnarchyXVII
+
 >> BANNEDPLAYERS > Banned
 Pulsating d44f
 slawsonkp1
@@ -38,7 +41,6 @@ Sonicb0iy e282
 Lowenickel20077 2206
 SD-A
 CrazyRedneck
-AnarchyXVII
 GoldenBean2004
 BloodEv0lver
 slothgoesmeow d0f4
