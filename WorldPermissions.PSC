@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/11/24 7:22 PM - V1.3.0
+//VRCWMT - UTC 15/11/24 10:29 PM - V1.3.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -62,3 +62,4 @@ MurderDrone - N
 Karter359 1bed
 Official Lizzy
 Perry1776 a4e8
+camera_titan_v1
