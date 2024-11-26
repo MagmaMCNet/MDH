@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 26/11/24 2:22 AM - V1.4.0
+//VRCWMT - UTC 26/11/24 2:48 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -20,12 +20,12 @@ Kikuσ
 Splice_Anomaly
 〘Local〙
 RabbitMeat
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
 FangedFinn
 Cord-IE
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 
 >> KOS > KOS+Banned
 AnarchyXVII
