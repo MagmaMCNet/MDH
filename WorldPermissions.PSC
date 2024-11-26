@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 25/11/24 9:54 PM - V1.4.0
+//VRCWMT - UTC 26/11/24 2:22 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -25,6 +25,7 @@ RabbitMeat
 StoneHatchet
 FangedFinn
 Cord-IE
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 
 >> KOS > KOS+Banned
 AnarchyXVII
