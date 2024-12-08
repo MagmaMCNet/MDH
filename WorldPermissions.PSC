@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 28/11/24 9:32 PM - V1.4.0
+//VRCWMT - UTC 8/12/24 6:46 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -26,6 +26,7 @@ Splice_Anomaly
 RabbitMeat
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 Feely123
+ღLUNAღ
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
@@ -33,7 +34,7 @@ FangedFinn
 Cord-IE
 
 >> KOS > KOS+Banned
-AnarchyXVII
+SD-JesterXVII
 clown_about 1e12
 
 >> BANNEDPLAYERS > Banned
@@ -75,3 +76,11 @@ beau․165000 7235
 GettingReal
 bbssami5
 seed09 2553
+Ryan․the․rhino 2958
+P͚H͚A͚N͚T͚O͚M͚
+mariameier․2024 5477
+LtBAM401 cbb0
+Bag_Headed_Yeep c29f
+parker․20678383․2024 20fd
+catnap17 5860
+mason5515
