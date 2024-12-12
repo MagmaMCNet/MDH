@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 8/12/24 6:46 PM - V1.4.0
+//VRCWMT - UTC 12/12/24 7:22 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -20,7 +20,6 @@ WinRing0x64․sys
 DarkDeerAlastor
 ツJADEツ
 Epsilon Zero
-Kikuσ
 Splice_Anomaly
 〘Local〙
 RabbitMeat
