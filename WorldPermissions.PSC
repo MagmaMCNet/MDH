@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/12/24 12:05 AM - V1.4.0
+//VRCWMT - UTC 16/12/24 1:03 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -101,7 +101,6 @@ dinonuggester
 BabyT․206415 2325
 ban0fficial94 e8b5
 Skibi Edits
-killer_snow19 db13
 Cheif1228 4c4d
 v̸o̸i̵c̸e̷s̵
 revgang9669 7695
