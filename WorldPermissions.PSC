@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 16/12/24 6:28 AM - V1.4.0
+//VRCWMT - UTC 16/12/24 8:30 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -38,7 +38,6 @@ SD-JesterXVII
 clown_about 1e12
 
 >> BANNEDPLAYERS > Banned
-Pulsating d44f
 slawsonkp1
 raidenchu
 FirFam 465a
@@ -55,35 +54,25 @@ GoldenBean2004
 BloodEv0lver
 slothgoesmeow d0f4
 skibidixavier
-jax․116147 dff5
 Drew31Chase 40ab
 Murder_Drone_n_252719 4bf2
-wrestler051 79c5
 follow_cdudevr 8650
 DefinitelynotAbelTorres 6adb
 mattymario27 3682
 Jmdaen2529 2b0a
-DREADEDTACOCAT c571
-dman14․2024 9ecf
-death․is․here c325
-MurderDrone - N
 Karter359 1bed
-Official Lizzy
 Perry1776 a4e8
 camera_titan_v1
 juice5880
-beau․165000 7235
 GettingReal
 bbssami5
 seed09 2553
-Ryan․the․rhino 2958
 P͚H͚A͚N͚T͚O͚M͚
 mariameier․2024 5477
 LtBAM401 cbb0
 Bag_Headed_Yeep c29f
 parker․20678383․2024 20fd
 catnap17 5860
-mason5515
 death101 6907
 Wookieboy 02b7
 CoolEli12 3ed1
@@ -94,8 +83,6 @@ Turtlepark 4573
 ismail6282882 e051
 Nyatsuki6473
 Mr․hotdawg 7eaa
-mintelvrc
-Rene1234 a381
 caiden_trap 3003
 dinonuggester
 BabyT․206415 2325
@@ -105,7 +92,6 @@ v̸o̸i̵c̸e̷s̵
 revgang9669 7695
 RgRunAnGun
 captaincake15 73c8
-miller․184046 ac3d
 Byrnin 644e
 jsncarle 93fc
 ВlапсоLеоpаrdо
@@ -116,9 +102,7 @@ QuakeIsAwsome
 JJthewild d3f2
 Postal2Dude
 ~crème-bakery~
-derek․30608 ed31
 kyogurt
 caseoh6969
 Leviathansc
 Crash_Bam
-wonderlu․2023 eb9e
