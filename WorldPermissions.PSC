@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 20/12/24 2:40 AM - V1.4.0
+//VRCWMT - UTC 20/12/24 2:10 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -136,3 +136,5 @@ TheVrteen
 mclandon
 metaquest․518130 936e
 slabby02 0318
+Robindino
+Kaytie thefloof
