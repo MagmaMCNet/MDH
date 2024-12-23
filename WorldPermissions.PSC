@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 22/12/24 10:04 PM - V1.4.0
+//VRCWMT - UTC 23/12/24 12:14 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -82,7 +82,6 @@ Garfieldepic12 fcb0
 -VTN-
 Turtlepark 4573
 ismail6282882 e051
-Nyatsuki6473
 Mr․hotdawg 7eaa
 caiden_trap 3003
 dinonuggester
