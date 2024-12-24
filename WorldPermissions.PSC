@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 24/12/24 10:48 PM - V1.4.0
+//VRCWMT - UTC 24/12/24 10:50 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -15,6 +15,7 @@ WinRing0․sys
 WinRing0x64
 WinRing0x64․sys
 TheCrystalUnit
+m3000_2
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 DarkDeerAlastor
