@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 24/12/24 11:52 PM - V1.4.0
+//VRCWMT - UTC 25/12/24 12:36 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -170,6 +170,5 @@ TheAFKAccount2
 ღCutieTrashღ
 》ᴍᴇɢᴀᴛʀᴏɴᴜѕ《
 ෆღŁüçįdStãrღෆ
-Suresha
 We_R_still_here 3294
 0Dark_PlayerXX0
