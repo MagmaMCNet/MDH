@@ -1,11 +1,10 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 25/12/24 4:30 PM - V1.4.0
+//VRCWMT - UTC 25/12/24 10:57 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
-null_0x
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 Maɡmа
@@ -173,3 +172,5 @@ We_R_still_here 3294
 monkvr3764 b59b
 waffle1 46ee
 MYDOGATEMYUNCLE
+neos901 ac11
+max clark
