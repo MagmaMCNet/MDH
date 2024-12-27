@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/12/24 6:36 AM - V1.4.0
+//VRCWMT - UTC 27/12/24 6:38 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -27,6 +27,7 @@ Feely123
 ღLUNAღ
 -ØʀᴄʜɪᴅxSᴀʙᴇʀ-
 Benevolent
+DarkDeerAlastor
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
