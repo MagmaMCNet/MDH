@@ -1,10 +1,11 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/12/24 7:56 AM - V1.4.0
+//VRCWMT - UTC 27/12/24 8:37 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
+Benevolent
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 Maɡmа
@@ -27,7 +28,6 @@ c̴͍̊ẖ̶͛ạ̷̛o̴s
 Feely123
 ღLUNAღ
 -ØʀᴄʜɪᴅxSᴀʙᴇʀ-
-Benevolent
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
@@ -37,7 +37,6 @@ Cord-IE
 >> KOS > KOS+Banned
 SD-JesterXVII
 clown_about 1e12
-》ᴍᴇɢᴀᴛʀᴏɴᴜѕ《
 
 >> BANNEDPLAYERS > Banned
 slawsonkp1
@@ -174,3 +173,4 @@ ZaDlon f9b7
 cagekills
 papaswiththebigmapas cb9d
 LOSERTOON
+GoldenBean2004
