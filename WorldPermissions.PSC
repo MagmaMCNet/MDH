@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/12/24 4:58 AM - V1.4.0
+//VRCWMT - UTC 27/12/24 6:36 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -36,6 +36,7 @@ Cord-IE
 >> KOS > KOS+Banned
 SD-JesterXVII
 clown_about 1e12
+》ᴍᴇɢᴀᴛʀᴏɴᴜѕ《
 
 >> BANNEDPLAYERS > Banned
 slawsonkp1
