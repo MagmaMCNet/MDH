@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/12/24 4:29 AM - V1.4.0
+//VRCWMT - UTC 27/12/24 4:58 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -17,7 +17,6 @@ TheCrystalUnit
 m3000_2
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
-DarkDeerAlastor
 ツJADEツ
 Epsilon Zero
 Splice_Anomaly
@@ -172,3 +171,4 @@ MYDOGATEMYUNCLE
 ZaDlon f9b7
 cagekills
 papaswiththebigmapas cb9d
+LOSERTOON
