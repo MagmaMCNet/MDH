@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 27/12/24 8:37 AM - V1.4.0
+//VRCWMT - UTC 28/12/24 7:26 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -15,24 +15,19 @@ WinRing0․sys
 WinRing0x64
 WinRing0x64․sys
 TheCrystalUnit
-m3000_2
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 ツJADEツ
-Epsilon Zero
 Splice_Anomaly
 〘Local〙
 RabbitMeat
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 Feely123
-ღLUNAღ
 -ØʀᴄʜɪᴅxSᴀʙᴇʀ-
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
-FangedFinn
-Cord-IE
 
 >> KOS > KOS+Banned
 SD-JesterXVII
@@ -51,7 +46,7 @@ Sonicb0iy e282
 Lowenickel20077 2206
 SD-A
 CrazyRedneck
-BloodEv0lver
+BloodSystem
 slothgoesmeow d0f4
 skibidixavier
 Drew31Chase 40ab
@@ -93,7 +88,7 @@ captaincake15 73c8
 Byrnin 644e
 jsncarle 93fc
 ВlапсоLеоpаrdо
-Yuki_45
+『Jester』
 QuakeIsAwsome
 ~Inner trenches~ 14eb
 Postal2Dude
@@ -107,7 +102,7 @@ Eternal~Night
 johndoe6969
 karettgod
 emmett628 f819
-ejadams52 c71b
+ejadams52
 blitz8506․2024 8493
 mintelvrc
 JPW8 5397
@@ -116,7 +111,7 @@ jamisonsetzer1234 fc83
 BOSHI3
 CaptainHotrod 9ddf
 Rowdysleet 3c3f
-༒notransrights
+aVgEcIbaWwIH
 Bebo_Tez 782f
 waverider412 7b1f
 Lem0n․lem0ny dff2
