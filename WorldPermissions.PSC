@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 28/12/24 9:58 AM - V1.4.0
+//VRCWMT - UTC 28/12/24 10:10 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -69,7 +69,6 @@ Bag_Headed_Yeep c29f
 parker․20678383․2024 20fd
 catnap17 5860
 death101 6907
-Wookieboy 02b7
 CoolEli12 3ed1
 dirtymike․66573 45ba
 Garfieldepic12 fcb0
@@ -77,7 +76,6 @@ Garfieldepic12 fcb0
 Turtlepark 4573
 ismail6282882 e051
 Mr․hotdawg 7eaa
-caiden_trap 3003
 dinonuggester
 BabyT․206415 2325
 ban0fficial94 e8b5
@@ -135,7 +133,6 @@ AJ_CUMS
 Pipdachaotic
 Rhuehfire-saxon
 angel․mendez․616837 2ca8
-sow2016 8066
 Xxlgsxxslasher 87bb
 chuckieps2000 0725
 brando․698977 239e
@@ -145,7 +142,6 @@ lucifersson666 8b49
 xenomorph1349 aea4
 个WATER个
 penut_gt16848 2eb6
-π-Chumbabõ-π
 6057190427640350 c1de
 MF Gizmo
 UntitledGas
@@ -156,7 +152,6 @@ shaddix․mahoney 38c9
 anthony․542574 f2cd
 Coolkid7 0666
 In․Zane 7553
-》ᴍᴇɢᴀᴛʀᴏɴᴜѕ《
 ෆღŁüçįdStãrღෆ
 We_R_still_here 3294
 0Dark_PlayerXX0
