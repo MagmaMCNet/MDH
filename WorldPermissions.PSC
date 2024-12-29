@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 29/12/24 10:41 PM - V1.4.0
+//VRCWMT - UTC 29/12/24 10:42 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -165,4 +165,3 @@ papaswiththebigmapas cb9d
 LOSERTOON
 GoldenBean2004
 benjamin_collins2003 0e1b
-˚Ｈ４Ｚ３Ｌ˚ Ｈ４Ｚ４ＲＤ˚
