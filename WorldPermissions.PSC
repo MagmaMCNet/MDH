@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/12/24 9:31 AM - V1.4.0
+//VRCWMT - UTC 31/12/24 9:46 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -11,11 +11,6 @@ Benevolent
 Maɡmа
 nnn_0x
 WinRing0
-WinRing0․sys
-WinRing0x64․sys
-c̴͍̊ẖ̶͛ạ̷̛o̴s
-ღLUNAღ
-ღCutieTrashღ
 VRC-WMT
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
@@ -30,6 +25,7 @@ TheCrystalUnit
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
+ღCutieTrashღ
 
 >> KOS > KOS+Banned
 SD-JesterXVII
@@ -40,7 +36,6 @@ slawsonkp1
 raidenchu
 FirFam 465a
 HORROR32444GOD 5a41
-efrenar d2fe
 leeharveyoswald․2023 d78e
 JasonPlayz_HTF
 blaze blaz
@@ -51,7 +46,6 @@ CrazyRedneck
 BloodSystem
 slothgoesmeow d0f4
 skibidixavier
-Drew31Chase 40ab
 Murder_Drone_n_252719 4bf2
 follow_cdudevr 8650
 DefinitelynotAbelTorres 6adb
@@ -67,7 +61,6 @@ seed09 2553
 P͚H͚A͚N͚T͚O͚M͚
 mariameier․2024 5477
 LtBAM401 cbb0
-Bag_Headed_Yeep c29f
 parker․20678383․2024 20fd
 catnap17 5860
 death101 6907
@@ -83,7 +76,6 @@ BabyT․206415 2325
 ban0fficial94 e8b5
 Skibi Edits
 revgang9669 7695
-RgRunAnGun
 captaincake15 73c8
 Byrnin 644e
 jsncarle 93fc
@@ -108,7 +100,6 @@ JPW8 5397
 Ramseyboi 8a61
 jamisonsetzer1234 fc83
 BOSHI3
-CaptainHotrod 9ddf
 Rowdysleet 3c3f
 aVgEcIbaWwIH
 Bebo_Tez 782f
@@ -145,7 +136,6 @@ xenomorph1349 aea4
 个WATER个
 penut_gt16848 2eb6
 6057190427640350 c1de
-MF Gizmo
 UntitledGas
 HD_ eeaf
 2Pacinforever e02d
