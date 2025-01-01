@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 31/12/24 3:38 PM - V1.4.0
+//VRCWMT - UTC 1/1/25 6:26 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -13,13 +13,13 @@ nnn_0x
 WinRing0
 VRC-WMT
 TheCrystalUnit
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 ツJADEツ
 Splice_Anomaly
 〘Local〙
 RabbitMeat
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 Feely123
 -ØʀᴄʜɪᴅxSᴀʙᴇʀ-
 
