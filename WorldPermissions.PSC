@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 6/1/25 8:47 AM - V1.4.0
+//VRCWMT - UTC 6/1/25 4:30 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -165,7 +165,6 @@ daimarendad 6cdb
 joltz_gt 6739
 TripleTerrorism
 Realdeal239 b06c
-Eldritch_Star
 moonlight6787 8b2c
 MuddyTechnologi
 Mars? c4f5
