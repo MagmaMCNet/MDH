@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 8/1/25 9:49 AM - V1.4.0
+//VRCWMT - UTC 8/1/25 9:54 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -180,3 +180,5 @@ Invader_tristan e40e
 tillyscrubs
 X_SillyPanda_X 62ee
 faelanpact
+TheFeverCoven
+TheFaelanPact
