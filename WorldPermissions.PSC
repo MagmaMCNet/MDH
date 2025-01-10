@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 9/1/25 8:50 PM - V1.4.0
+//VRCWMT - UTC 10/1/25 10:47 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -16,7 +16,7 @@ VRC-WMT
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 ツJADEツ
 Splice_Anomaly
-〘Local〙
+〔Ellis〕
 RabbitMeat
 Feely123
 -ØʀᴄʜɪᴅxSᴀʙᴇʀ-
@@ -70,7 +70,7 @@ CoolEli12 3ed1
 dirtymike․66573 45ba
 Garfieldepic12 fcb0
 -VTN-
-Turtlepark 4573
+postal_dude653 4573
 ismail6282882 e051
 Mr․hotdawg 7eaa
 dinonuggester
@@ -124,8 +124,7 @@ slabby02 0318
 Robindino
 KaisonLee16 c23d
 AJ_CUMS
-Pipdachaotic
-Rhuehfire-saxon
+rhuehfireyt
 angel․mendez․616837 2ca8
 Xxlgsxxslasher 87bb
 chuckieps2000 0725
@@ -176,7 +175,7 @@ traceywil
 KnuckleHead54
 Strelnikov 3e2a
 Epicgamr2010
-Invader_tristan e40e
+Wh0IsTristan
 tillyscrubs
 X_SillyPanda_X 62ee
 faelanpact
