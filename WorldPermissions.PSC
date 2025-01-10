@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 10/1/25 10:47 PM - V1.4.0
+//VRCWMT - UTC 10/1/25 11:33 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -193,3 +193,5 @@ Official Lizzy
 Glowinn
 alastor_254 a5f8
 LukTheVyond b54a
+koko57
+Steel․City17 c018
