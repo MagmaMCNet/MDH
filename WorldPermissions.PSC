@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 11/1/25 5:45 PM - V1.4.0
+//VRCWMT - UTC 11/1/25 9:25 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -25,10 +25,10 @@ Sir Biscuit
 decolored
 TheCrystalUnit
 IntoThePit_CO
+ღCutieTrashღ
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
-ღCutieTrashღ
 
 >> KOS > KOS+Banned
 SD-JesterXVII
@@ -202,3 +202,4 @@ MalikandBen 65b8
 Jeremiah․25 8462
 OliWallaWaffle
 kojohn16 da77
+0yMPWZa0euDj
