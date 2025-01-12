@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/1/25 4:18 AM - V1.4.0
+//VRCWMT - UTC 12/1/25 4:44 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -182,7 +182,6 @@ faelanpact
 TheFeverCoven
 TheFaelanPact
 ᴇᴜʀᴏғɪɢʜᴛᴇʀ
--BassDaFish-
 Kai Ozu
 DarkDeerAlastor
 Queefer45
