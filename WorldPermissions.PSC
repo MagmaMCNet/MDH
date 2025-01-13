@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/1/25 11:14 PM - V1.4.0
+//VRCWMT - UTC 13/1/25 12:39 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -186,7 +186,6 @@ Queefer45
 ooty_boy
 ¿Starwrld?
 _LUCIDDREAMER_
-Official Lizzy
 Glowinn
 alastor_254 a5f8
 LukTheVyond b54a
