@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 13/1/25 10:32 PM - V1.4.0
+//VRCWMT - UTC 14/1/25 1:30 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -29,6 +29,7 @@ IntoThePit_CO
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
 decowrld
+MrDivinePilgrim
 
 >> KOS > KOS+Banned
 SD-JesterXVII
