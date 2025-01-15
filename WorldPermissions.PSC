@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 15/1/25 7:38 PM - V1.4.0
+//VRCWMT - UTC 15/1/25 7:46 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -17,15 +17,13 @@ Maɡma VR
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 Splice_Anomaly
 RabbitMeat
-TheCrystalUnit
 ღCutieTrashღ
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
-MrDivinePilgrim
-MrGoldfishMan
 〔Ellis〕
 c̴͍̊ẖ̶͛ạ̷̛o̴s
+TheCrystalUnit
 
 >> KOS > KOS+Banned
 
