@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 24/1/25 2:35 PM - V1.4.0
+//VRCWMT - UTC 24/1/25 2:37 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -16,5 +16,6 @@ TheCrystalUnit
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
 sπazzy
+TOS Boy
 
 >> BANNEDPLAYERS > Banned
