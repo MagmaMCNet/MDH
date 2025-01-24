@@ -1,10 +1,11 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 24/1/25 2:37 PM - V1.4.0
+//VRCWMT - UTC 24/1/25 3:08 PM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
+QT Worlds
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 mawjob
