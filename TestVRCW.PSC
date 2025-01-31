@@ -10,3 +10,4 @@ Benevolent
 >> WorldBlacklist > Blacklist
 Lucifer_12am
 -cyrus-
+-cyrus-2
