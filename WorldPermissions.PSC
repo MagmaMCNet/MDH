@@ -23,5 +23,6 @@ StoneHatchet
 sπazzy
 TOS Boy
 Voicemᴏd
+Skullworks_PC
 
 >> BANNEDPLAYERS > Banned
