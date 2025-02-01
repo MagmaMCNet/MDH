@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 1/2/25 7:08 AM - V1.4.0
+//VRCWMT - UTC 1/2/25 11:28 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -10,6 +10,7 @@ QT Worlds
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 M3000_4
 Kalver
+WinRing0
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 ღCutieTrashღ
