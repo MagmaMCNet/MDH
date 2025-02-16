@@ -1,5 +1,5 @@
 //AUTO GENERATED DO NOT EDIT!
-//VRCWMT - UTC 12/2/25 6:22 AM - V1.4.0
+//VRCWMT - UTC 16/2/25 12:21 AM - V1.4.0
 //WorldName: MURDER DRONES
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
@@ -18,7 +18,6 @@ sπazzy
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 StoneHatchet
-Voicemᴏd
 ₪Rxdio~狼࿇
 Splice_Anomaly
 
