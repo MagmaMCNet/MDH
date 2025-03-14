@@ -15,5 +15,6 @@ WinRing0
 >> MODERATORS > Staff+VIP+TAG_MOD
 λtheboss997λ
 0yMPWZa0euDj
+ТеknоМаnΝеmеѕіѕ
 
 >> BANNEDPLAYERS > Banned
