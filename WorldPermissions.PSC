@@ -10,7 +10,8 @@ mawjob
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 gsudo
-
+Kernal?
+ 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
