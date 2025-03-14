@@ -9,6 +9,7 @@ mawjob
 -MagmaVR-
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
+gsudo
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
