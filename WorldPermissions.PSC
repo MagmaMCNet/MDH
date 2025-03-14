@@ -7,7 +7,6 @@
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
 mawjob
 WinRing0
-0yMPWZa0euDj
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 
@@ -15,5 +14,6 @@ WinRing0
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 λtheboss997λ
+0yMPWZa0euDj
 
 >> BANNEDPLAYERS > Banned
