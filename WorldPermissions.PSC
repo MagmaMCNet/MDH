@@ -6,7 +6,7 @@
 
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
 mawjob
-WinRing0
+-MagmaVR-
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 
