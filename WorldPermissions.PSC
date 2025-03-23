@@ -18,5 +18,6 @@ Kernal?
 λtheboss997λ
 0yMPWZa0euDj
 ТеknоМаnΝеmеѕіѕ
+godelus
 
 >> BANNEDPLAYERS > Banned
