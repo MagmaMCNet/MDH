@@ -7,10 +7,14 @@
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
 -MagmaVR-
 
->> INTERNAL > _G+Higher+Admin+Staff+VIP
- 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
+
+>> INTERNAL > _G+Higher+Admin+Staff+VIP
+ТеknоМаnΝеmеѕіѕ
+gsudo
+kernal?
+kernel?
 
 >> BANNEDPLAYERS > Banned
