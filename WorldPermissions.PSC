@@ -5,19 +5,12 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
-mawjob
 -MagmaVR-
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
-gsudo
-Kernal?
  
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
-λtheboss997λ
-0yMPWZa0euDj
-ТеknоМаnΝеmеѕіѕ
-godelus
 
 >> BANNEDPLAYERS > Banned
