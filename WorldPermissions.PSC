@@ -16,5 +16,6 @@
 gsudo
 kernal?
 kernel?
+mawjob
 
 >> BANNEDPLAYERS > Banned
