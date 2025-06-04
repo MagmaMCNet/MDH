@@ -12,7 +12,7 @@
 >> MODERATORS > Staff+VIP+TAG_MOD
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
-ТеknоМаnΝеmеѕіѕ
+༺¡M4N1C~P4N1C¡༻
 gsudo
 kernal?
 kernel?
