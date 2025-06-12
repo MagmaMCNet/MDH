@@ -7,6 +7,8 @@
 >> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
 -MagmaVR-
 mawjob
+VRC-WMT
+
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
