@@ -4,7 +4,7 @@
 //WorldDescription: Murder Drones Hub
 //WorldCreator: MagmaMCNet
 
->> OWNERS > Higher+Admin+Staff+VIP+TAG_OWNER
+>> OWNERS > _G+Higher+Admin+Staff+VIP+TAG_OWNER
 -MagmaVR-
 mawjob
 VRC-WMT
@@ -17,7 +17,7 @@ VRC-WMT
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 SD-AnarchyXVII
 
->> INTERNAL > _G+Higher+Admin+Staff+VIP
+>> INTERNAL > Higher+Admin+Staff+VIP
 ༺¡M4N1C~P4N1C¡༻
 gsudo
 kernal?
