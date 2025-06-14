@@ -11,9 +11,12 @@ VRC-WMT
 Маgmа
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
+>> admin_tag > TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
+
+>> mod_tag > TAG_MOD
 SD-AnarchyXVII
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
