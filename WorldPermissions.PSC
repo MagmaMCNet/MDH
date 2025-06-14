@@ -15,10 +15,9 @@ VRC-WMT
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
-
->> mod_tag > TAG_MOD
 SD-AnarchyXVII
 
+>> mod_tag > TAG_MOD
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 -MagmaVR-
 ༺¡M4N1C~P4N1C¡༻
