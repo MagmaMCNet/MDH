@@ -8,11 +8,14 @@
 -MagmaVR-
 mawjob
 VRC-WMT
+Маɡmа
+Маgmа
 
 >> ADMINISTRATORS > Admin+Staff+VIP+TAG_ADMIN
 
 >> MODERATORS > Staff+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
+SD-AnarchyXVII
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
 ༺¡M4N1C~P4N1C¡༻
