@@ -5,7 +5,6 @@
 //WorldCreator: MagmaMCNet
 
 >> OWNERS > _G+Higher+Admin+Staff+VIP+TAG_OWNER
--MagmaVR-
 mawjob
 VRC-WMT
 Маɡmа
@@ -17,7 +16,8 @@ VRC-WMT
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 SD-AnarchyXVII
 
->> INTERNAL > Higher+Admin+Staff+VIP
+>> INTERNAL > _G+Higher+Admin+Staff+VIP
+-MagmaVR-
 ༺¡M4N1C~P4N1C¡༻
 gsudo
 kernal?
