@@ -9,6 +9,10 @@ mawjob
 VRC-WMT
 Маɡmа
 Маgmа
+-MagmaVR-
+gsudo
+kernal?
+kernel?
 
 >> Admin > Admin+Staff+VIP+TAG_ADMIN
 >> admin_tag > TAG_ADMIN
@@ -19,8 +23,4 @@ SD-AnarchyXVII
 >> mod_tag > TAG_MOD
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
--MagmaVR-
 ༺¡M4N1C~P4N1C¡༻
-gsudo
-kernal?
-kernel?
