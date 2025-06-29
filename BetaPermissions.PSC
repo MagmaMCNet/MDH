@@ -23,5 +23,6 @@ Orson Welles
 Splice_Anomaly
 0RoseStarlight0
 Monophonic
+cyndrome
 
 >> mod_tag > TAG_MOD
