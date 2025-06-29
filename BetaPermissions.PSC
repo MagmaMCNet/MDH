@@ -13,4 +13,15 @@ SD-AnarchyXVII
 
 >> Mod > STAFF+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
+
+༘ ೀᴘᴇᴀʀʟֶָ֢
+ღ-Puddle-ღ
+Isaacklan
+spencerdude
+bloodknight93
+Orson Welles
+Splice_Anomaly
+0RoseStarlight0
+Monophonic
+
 >> mod_tag > TAG_MOD
