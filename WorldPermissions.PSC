@@ -20,6 +20,16 @@ kernel?
 >> Mod > Staff+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 SD-AnarchyXVII
+༘ ೀᴘᴇᴀʀʟֶָ֢
+ღ-Puddle-ღ
+Isaacklan
+spencerdude
+bloodknight93
+Orson Welles
+Splice_Anomaly
+0RoseStarlight0
+Monophonic
+cyndrome
 >> mod_tag > TAG_MOD
 
 >> INTERNAL > _G+Higher+Admin+Staff+VIP
