@@ -33,4 +33,4 @@ cyndrome
 ༺¡M4N1C~P4N1C¡༻
 gsudo
 kernal?
-kernel?
+Kernel?
