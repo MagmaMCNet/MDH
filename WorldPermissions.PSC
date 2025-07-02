@@ -36,3 +36,8 @@ kernal?
 Kernel?
 emo_eden
 WinRing0
+Bash File
+QT Admins
+iqvw64e
+KDMapper Tool
+Intel Xeon
