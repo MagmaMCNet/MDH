@@ -9,12 +9,12 @@ kernel?
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN
 SD-AnarchyXVII
+SleepyVirus
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
 greǝd
-SleepyVirus
 PearlDeHaru
 ღ-Puddle-ღ
 Isaacklan
