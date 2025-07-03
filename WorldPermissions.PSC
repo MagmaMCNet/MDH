@@ -12,11 +12,12 @@ VRC-WMT
 -MagmaVR-
 
 >> Admin > Admin+Staff+VIP+TAG_ADMIN
+SleepyVirus
+SD-AnarchyXVII
 >> admin_tag > TAG_ADMIN
 
 >> Mod > Staff+VIP+TAG_MOD
 c̴͍̊ẖ̶͛ạ̷̛o̴s
-SD-AnarchyXVII
 ༘ ೀᴘᴇᴀʀʟֶָ֢
 ღ-Puddle-ღ
 Isaacklan
