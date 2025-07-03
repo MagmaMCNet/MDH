@@ -22,7 +22,7 @@ bloodknight93
 Orson Welles
 Splice_Anomaly
 0RoseStarlight0
-Monophonic
+Monophobic
 cyndrome
 
 >> mod_tag > TAG_MOD
