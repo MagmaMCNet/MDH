@@ -7,12 +7,19 @@ VRC-WMT
 kernal?
 kernel?
 
+>> NoTag > _G+ADMIN+STAFF+VIP
+Red Shark
+Cyan Shark
+Yellow Shark
+
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN
 SD-AnarchyXVII
 SleepyVirus
+
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
+Gray Shark
 smbeeks
 V๏ɨď-T๏ɲ
 c̴͍̊ẖ̶͛ạ̷̛o̴s
