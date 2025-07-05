@@ -25,6 +25,6 @@ Orson Welles
 Splice_Anomaly
 0RoseStarlight0
 Monophobic
-cyndrome
+ɪɴᴛᴇʀɴᴇᴛ ᴀɴɢᴇʟഒ
 
 >> mod_tag > TAG_MOD
