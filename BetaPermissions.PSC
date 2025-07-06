@@ -4,10 +4,10 @@ mawjob
 VRC-WMT
 Маɡmа
 Маgmа
-kernal?
-kernel?
 
 >> NoTag > _G+ADMIN+STAFF+VIP
+kernal?
+kernel?
 Red Shark
 Cyan Shark
 Yellow Shark
