@@ -35,7 +35,6 @@ spencerdude
 bloodknight93
 Orson Welles
 Splice_Anomaly
-0RoseStarlight0
 ɪɴᴛᴇʀɴᴇᴛ ᴀɴɢᴇʟഒ
 
 >> mod_tag > TAG_MOD
