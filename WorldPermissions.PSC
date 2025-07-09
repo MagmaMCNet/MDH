@@ -12,7 +12,6 @@ VRC-WMT
 -MagmaVR-
 
 >> Admin > Admin+Staff+VIP+TAG_ADMIN
-SD-AnarchyXVII
 V๏ɨď-T๏ɲ
 Monophobic
 sHiVeRrRrs
