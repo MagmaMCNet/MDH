@@ -17,7 +17,9 @@ SD-AnarchyXVII
 V๏ɨď-T๏ɲ
 Monophobic
 sHiVeRrRrs
-
+Sir Yellow
+Sir Green
+Sir Red
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
