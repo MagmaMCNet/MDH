@@ -21,6 +21,7 @@ sHiVeRrRrs
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
+NOIZECHO
 Don༒Quixote
 NekoKenny1223
 SleepyVirus
