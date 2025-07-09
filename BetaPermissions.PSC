@@ -33,7 +33,6 @@ StoneHasBone
 greǝd
 PearlDeHaru
 ღ-Puddle-ღ
-Isaacklan
 spencerdude
 bloodknight93
 Orson Welles
