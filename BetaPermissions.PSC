@@ -13,7 +13,6 @@ Cyan Shark
 Yellow Shark
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN
-SD-AnarchyXVII
 V๏ɨď-T๏ɲ
 Monophobic
 sHiVeRrRrs
