@@ -19,6 +19,9 @@ sHiVeRrRrs
 Sir Yellow
 Sir Green
 Sir Red
+StoneHasBone
+Orson Welles
+spencerdude
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
@@ -30,13 +33,10 @@ rhardin76 61df
 Gray Shark
 smbeeks
 c̴͍̊ẖ̶͛ạ̷̛o̴s
-StoneHasBone
 greǝd
 PearlDeHaru
 ღ-Puddle-ღ
-spencerdude
 bloodknight93
-Orson Welles
 Splice_Anomaly
 ɪɴᴛᴇʀɴᴇᴛ ᴀɴɢᴇʟഒ
 
