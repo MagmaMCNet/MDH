@@ -25,6 +25,7 @@ spencerdude
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD
+rip_2011_2025 c4cb
 ・୨୧ ᴇɴᴠʏ ୨୧・
 Kiwi???
 NOIZECHO
@@ -39,7 +40,6 @@ greǝd
 PearlDeHaru
 ღ-Puddle-ღ
 bloodknight93
-Splice_Anomaly
 ɪɴᴛᴇʀɴᴇᴛ ᴀɴɢᴇʟഒ
 
 >> mod_tag > TAG_MOD
