@@ -1,18 +1,18 @@
->> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER
+>> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
 -MagmaVR-
 mawjob
 VRC-WMT
 Маɡmа
 Маgmа
 
->> NoTag > _G+ADMIN+STAFF+VIP
+>> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 kernal?
 kernel?
 Red Shark
 Cyan Shark
 Yellow Shark
 
->> Admin > ADMIN+STAFF+VIP+TAG_ADMIN
+>> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 V๏ɨď-T๏ɲ
 Monophobic
 sHiVeRrRrs
@@ -24,7 +24,7 @@ Orson Welles
 spencerdude
 >> admin_tag > TAG_ADMIN
 
->> Mod > STAFF+VIP+TAG_MOD
+>> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
 Admin87
 ༺MoonzyUzii༻
 -ˏˋ Mochi ˊˎ
