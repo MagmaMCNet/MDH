@@ -12,20 +12,17 @@ Cyan Shark
 Yellow Shark
 -MagmaVR-
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
-c̴͍̊ẖ̶͛ạ̷̛o̴s
-V๏ɨď-T๏ɲ
-Monophobic
-sHiVeRrRrs
-Sir Yellow
-Sir Green
-Sir Red
-StoneHasBone
-Orson Welles
 spencerdude
+Captain Nox
+V๏ɨď-T๏ɲ
+sHiVeRrRrs
+Orson Welles
+Monophobic
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
-Captain Nox
+StoneHasBone
 ・୨୧ ᴇɴᴠʏ ୨୧・
 ༺MoonzyUzii༻
 Admin87
