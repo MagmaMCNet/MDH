@@ -21,6 +21,7 @@ Sir Red
 StoneHasBone
 Orson Welles
 spencerdude
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
@@ -37,7 +38,6 @@ SleepyVirus
 rhardin76 61df
 Gray Shark
 smbeeks
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 PearlDeHaru
 ღ-Puddle-ღ
 bloodknight93
