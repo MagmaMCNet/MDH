@@ -9,7 +9,6 @@ mawjob
 VRC-WMT
 Маɡmа
 Маgmа
--MagmaVR-
 
 >> Admin > Admin+Staff+VIP+TAG_ADMIN
 V๏ɨď-T๏ɲ
