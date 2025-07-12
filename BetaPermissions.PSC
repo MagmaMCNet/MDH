@@ -1,5 +1,4 @@
 >> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
--MagmaVR-
 mawjob
 VRC-WMT
 Маɡmа
