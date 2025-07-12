@@ -25,6 +25,7 @@ spencerdude
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
+Captain Nox
 ・୨୧ ᴇɴᴠʏ ୨୧・
 ༺MoonzyUzii༻
 Admin87
