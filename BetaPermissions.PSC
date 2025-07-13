@@ -8,10 +8,9 @@ VRC-WMT
 kernal?
 kernel?
 Red Shark
-Cyan Shark
-Yellow Shark
-QT Admins
 -MagmaVR-
+femboy mawjob
+
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 spencerdude
 Captain Nox
@@ -19,12 +18,11 @@ V๏ɨď-T๏ɲ
 sHiVeRrRrs
 Orson Welles
 Monophobic
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 StoneHasBone
-femboy mawjob
 >> admin_tag > TAG_ADMIN
 
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
+c̴͍̊ẖ̶͛ạ̷̛o̴s
 ・୨୧ ᴇɴᴠʏ ୨୧・
 ༺MoonzyUzii༻
 Admin87
