@@ -10,6 +10,7 @@ kernel?
 Red Shark
 Cyan Shark
 Yellow Shark
+QT Admins
 -MagmaVR-
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 spencerdude
