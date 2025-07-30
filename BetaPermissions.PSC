@@ -13,10 +13,7 @@ V๏ɨď-T๏ɲ
 ༺MoonzyUzii༻
 
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
-Orson Welles
-c̴͍̊ẖ̶͛ạ̷̛o̴s
 -ˏˋ Mochi ˊˎ
 NOIZECHO
 smbeeks
 ღ-Puddle-ღ
-Admin87
