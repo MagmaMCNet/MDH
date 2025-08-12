@@ -2,6 +2,7 @@
 mawjob
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
+Kernal?
 C̴I̶A̵
 Red Shark
 MagmaVRC
