@@ -8,9 +8,9 @@ Red Shark
 MagmaVRC
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 V๏ɨď-T๏ɲ
-Queefer45
+Queefer4
 bbssami5
-
+v﮴wv
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
 ღ-Puddle-ღ
 VkeiKisser
