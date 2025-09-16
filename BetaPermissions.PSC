@@ -15,5 +15,3 @@ ThatsUnreal
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
 ღ-Puddle-ღ
 VkeiKisser
-Wh0IsTristan
-
