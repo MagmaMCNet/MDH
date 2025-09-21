@@ -1,10 +1,10 @@
 >> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
 mawjob
+MagmaVRC
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 Kernal?
 Red Shark
-MagmaVRC
 v﮴wv
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 Queefer4
