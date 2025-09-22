@@ -6,6 +6,7 @@ MagmaVRC
 Kernal?
 Red Shark
 v﮴wv
+VRC-WMT
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 Queefer4
 bbssami5
