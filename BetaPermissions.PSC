@@ -6,13 +6,13 @@ MagmaVRC
 Kernal?
 Red Shark
 v﮴wv
-C̴I̶A̵
-VRC-WMT
+
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 Queefer4
 bbssami5
 ThatsUnreal
 VkeiKisser
+
 >> Mod > STAFF+VIP+TAG_MOD+moderation.timeout
 V๏ɨď-T๏ɲ
 ღ-Puddle-ღ
