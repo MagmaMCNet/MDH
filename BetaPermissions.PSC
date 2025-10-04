@@ -5,6 +5,7 @@ MagmaVRC
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 Kernal?
 Red Shark
+VRC-WMT
 v﮴wv
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
