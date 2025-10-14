@@ -1,7 +1,7 @@
 >> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
 mawjob
 MagmaVRC
->> gun > ADMIN
+>> gun > STAFF+ADMIN
 Selkie_529
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
