@@ -3,6 +3,7 @@ mawjob
 MagmaVRC
 >> gun > STAFF+ADMIN
 Selkie_529
+abs0lvt3_s1lly
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 Kernal?
