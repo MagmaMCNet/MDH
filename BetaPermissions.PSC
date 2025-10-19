@@ -6,6 +6,7 @@ Kernal?
 VRC-WMT
 Kernal?
 Kernel?
+MagmaVRC
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 bbssami5
