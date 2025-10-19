@@ -1,6 +1,5 @@
 >> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
 mawjob
-MagmaVRC
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 Kernal?
