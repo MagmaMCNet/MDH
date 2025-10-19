@@ -5,6 +5,8 @@ MagmaVRC
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 Kernal?
 VRC-WMT
+Kernal?
+Kernel?
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 bbssami5
