@@ -12,14 +12,12 @@ Kernal?
 Kernel?
 Lactose Father
 nuzn
-dirc
 FL-C
 R101
 SD-W
 SD-U
 
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
-bbssami5
 ThatsUnreal
 VkeiKisser
 abs0lvt3_s1lly
