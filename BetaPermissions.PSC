@@ -2,7 +2,7 @@
 mawjob
 MagmaVRC
 kipt
-
+Lactose Father
 
 >> NoTag > _G+ADMIN+STAFF+VIP+moderation.audit_log+moderation.ban+moderation.timeout
 
@@ -10,7 +10,6 @@ Kernal?
 VRC-WMT
 Kernal?
 Kernel?
-Lactose Father
 nuzn
 FL-C
 R101
@@ -35,3 +34,5 @@ Wh0IsTristan
 Wildiee
 Sprout VR
 psychoyuri
+ن Xpendable Δ
+Whitlinger
