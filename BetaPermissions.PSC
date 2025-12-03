@@ -34,6 +34,8 @@ FnuFnaf
 DeathSeekerUzi
 Stonehasbone
 《~ᴛᴇx~》
+AvaraVex
+Carter_xr
 
 // MD Group
 ˢᵖᵒᵒᵏˢ ˣ
