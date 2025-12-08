@@ -1,6 +1,5 @@
 >> Developer > _G+ADMIN+STAFF+VIP+TAG_OWNER+moderation.audit_log+moderation.ban+moderation.timeout
 mawjob
-MagmaVRC
 kipt
 Lactose Father
 abs0lvt3_s1lly
