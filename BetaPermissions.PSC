@@ -12,7 +12,6 @@ Kernal?
 VRC-WMT
 Kernal?
 Kernel?
-nuzn
 FL-C
 R101
 SD-W
