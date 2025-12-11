@@ -16,7 +16,6 @@ FL-C
 R101
 SD-W
 SD-U
-nuzn
 >> Admin > ADMIN+STAFF+VIP+TAG_ADMIN+moderation.ban+moderation.timeout
 ThatsUnreal
 Sprout VR
