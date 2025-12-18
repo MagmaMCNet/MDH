@@ -30,7 +30,7 @@ I z x 2 y - V A
 FnuFnaf
 DeathSeekerUzi
 Stonehasbone
-《~ᴛᴇx~》
+༅༒~ɛʑʑıɛ~༒༅
 AvaraVex
 Carter_xr
 SleepyVirus
